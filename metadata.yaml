@@ -1,0 +1,24 @@
+_repo: Nellie-Arundel-b-A-tale-of-home-life_73754
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shaw, Catharine
+    gutenberg_agent_id: '38947'
+    url: http://www.gutenberg.org/2009/agents/38947
+description: ''
+gutenberg_issued: '2024-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73754'
+language: en
+pgterms:marc905: 20240529134603shaw
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJohn F. Shaw and Co., $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Nellie Arundel : $b A tale of home life'
+url: http://www.gutenberg.org/ebooks/73754
